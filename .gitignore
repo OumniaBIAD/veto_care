@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables (SENSITIVE — ne jamais pousser)
+.env
+**/.env
+.env.local
+.env.production
+
+# Build output
+frontend/build/
+frontend/.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp / scratch
+scratch/
+scripts/seedData.js
+backend/scripts/check-*.js
+backend/scripts/copy*.js
+backend/scripts/update*.js
+
+# Package locks (optionnel — garder si tu veux la reproductibilité)
+# package-lock.json

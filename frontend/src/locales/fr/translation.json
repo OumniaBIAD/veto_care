@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "services": "Services",
+    "products": "Boutique",
+    "vets": "L'Équipe",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dashboard": "Mon Espace",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "hero_title": "Des soins experts pour vos compagnons préférés",
+    "hero_subtitle": "Une équipe passionnée au service de la santé et du bien-être de vos animaux. Prenez rendez-vous en ligne en quelques clics.",
+    "cta_rdv": "Prendre rendez-vous",
+    "cta_services": "Nos services",
+    "trust": "Plus de 2000 animaux soignés avec amour chaque année.",
+    "services_title": "Nos Services",
+    "services_subtitle": "Une gamme complète de soins pour tous vos animaux.",
+    "vets_title": "Nos Experts",
+    "vets_subtitle": "Une équipe de professionnels qualifiés et passionnés."
+  },
+  "footer": {
+    "about": "À propos",
+    "about_text": "Votre clinique vétérinaire de confiance pour des soins de qualité supérieure.",
+    "quick_links": "Liens rapides",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  }
+}

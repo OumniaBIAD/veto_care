@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Shop",
+    "vets": "Our Team",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "My Space",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero_title": "Expert care for your favorite companions",
+    "hero_subtitle": "A passionate team dedicated to the health and well-being of your pets. Book an appointment online in just a few clicks.",
+    "cta_rdv": "Book Appointment",
+    "cta_services": "Our Services",
+    "trust": "Over 2,000 animals cared for with love every year.",
+    "services_title": "Our Services",
+    "services_subtitle": "A full range of care for all your pets.",
+    "vets_title": "Our Experts",
+    "vets_subtitle": "A team of qualified and passionate professionals."
+  },
+  "footer": {
+    "about": "About Us",
+    "about_text": "Your trusted veterinary clinic for top-quality care.",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}
